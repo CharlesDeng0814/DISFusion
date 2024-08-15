@@ -52,8 +52,5 @@ The output of DISFusion is the ranking results and prediction scores of all gene
 
 ```
 
-## Contact
-If you have any questions, please contact us:<br>
-Chao Deng, `deng_chao@csu.edu.cn` <be>
-Jianxin Wang, `jxwang@mail.csu.edu.cn` 
+
 
