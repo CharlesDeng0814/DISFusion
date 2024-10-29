@@ -9,7 +9,7 @@ The setup process for DISFusion requires the following steps:
 ### Download
 Download DISFusion.  The following command clones the current DISFusion repository from GitHub:
 
-    git clone https://github.com/Spiritkkk/DISFusion.git
+    git clone [https://github.com/Spiritkkk/DISFusion.git](https://github.com/CharlesDeng0814/DISFusion.git)
     
 ### Environment Settings
 > python==3.7.0 \
